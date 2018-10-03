@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHaveADream.Android", "IHaveADream\IHaveADream.Android\IHaveADream.Android.csproj", "{EFF8856F-A326-414A-BC04-4BEAFB0C10DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHaveADream", "IHaveADream\IHaveADream\IHaveADream.csproj", "{FEE5B8F1-0D2E-4FBB-87BC-C16D4C5E9D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF8856F-A326-414A-BC04-4BEAFB0C10DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF8856F-A326-414A-BC04-4BEAFB0C10DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF8856F-A326-414A-BC04-4BEAFB0C10DB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EFF8856F-A326-414A-BC04-4BEAFB0C10DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF8856F-A326-414A-BC04-4BEAFB0C10DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF8856F-A326-414A-BC04-4BEAFB0C10DB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FEE5B8F1-0D2E-4FBB-87BC-C16D4C5E9D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE5B8F1-0D2E-4FBB-87BC-C16D4C5E9D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE5B8F1-0D2E-4FBB-87BC-C16D4C5E9D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE5B8F1-0D2E-4FBB-87BC-C16D4C5E9D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AD7D68-72FE-4C0C-8254-2B4988B2F32B}
+	EndGlobalSection
+EndGlobal

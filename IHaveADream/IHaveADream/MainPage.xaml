@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:IHaveADream"
+             x:Class="IHaveADream.MainPage">
+
+    <StackLayout>
+        <Label Text="MLK and Malcolm X" HorizontalTextAlignment="Center" FontSize="30.0" />
+        <Image Source="mlkandmalcolmx.jpg" />
+        <Label Text="Press a button to play the respective speech." HorizontalTextAlignment="Center" FontSize="15.0" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+            <Button Image="mlk.jpg" HorizontalOptions="FillAndExpand" Clicked="btnMLK_Clicked"/>
+            <Button Image="malcolmx.jpg" HorizontalOptions="FillAndExpand" Clicked="btnMalcolmX_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
