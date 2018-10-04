@@ -28,7 +28,7 @@ namespace IHaveADream {
                 playerMLK.Pause();
             } else { //otherwise:
                 if (playerMalcolmX.IsPlaying) { //if the malcolmx speech is playing:
-                    playerMalcolmX.Pause();//new pause the malcolm x speech
+                    playerMalcolmX.Pause();//pause the malcolm x speech
                 }
 
                 playerMLK.Play(); //then play the MLK speech
